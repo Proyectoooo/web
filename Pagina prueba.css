@@ -1,0 +1,59 @@
+.amor{
+    width: 20%;
+}
+
+nav{
+    box-shadow: 2px 2px 5px 000 ;
+    
+}
+
+.cho{
+    width: 100%
+}
+
+.no{
+    background-image: url(orar2.jpg);
+    background-size: cover;
+    min-height: 600px;
+}
+
+.background-overlay{
+    background: rgba(48, 51, 107, .7);
+    min-height: 600px
+}
+
+.doña{
+    width:90%;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.joven{
+    width:90%;
+}
+
+.pastor{
+    width:90%;
+}
+
+.team{
+    background: chocolate;
+    
+}
+
+.img-fluid{
+    width: 150px
+}
+
+.car{
+    background-color: aliceblue;
+    border-radius: 40px;
+    margin: 5px;
+}
+
+.card1{
+   background-color: burlywood; 
+    
+}
